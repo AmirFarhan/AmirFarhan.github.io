@@ -1,1 +1,0 @@
-# AmirFarhan.github.io
