@@ -1955,6 +1955,7 @@
 }
 .tf-ion-social-github:before {
   content: "\f233";
+  font-size: 23px;
 }
 .tf-ion-social-google-outline:before {
   content: "\f34e";
@@ -1997,6 +1998,7 @@
 }
 .tf-ion-social-linkedin:before {
   content: "\f239";
+  font-size: 23px;
 }
 .tf-ion-social-markdown:before {
   content: "\f4e6";
